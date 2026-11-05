@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Instability of Meta-Learning Intrinsic Rewards for Policy Gradient Reinforcement Learning"
+authors:
+  - family-names: Jayakody
+    given-names: Dilith
+    affiliation: Dalhousie University
+  - family-names: Rosati
+    given-names: Domenic
+    affiliation: Dalhousie University
+  - family-names: Rajendran
+    given-names: Janarthanan
+    affiliation: Dalhousie University
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Instability of Meta-Learning Intrinsic Rewards for Policy Gradient Reinforcement Learning"
+  authors:
+    - family-names: Jayakody
+      given-names: Dilith
+    - family-names: Rosati
+      given-names: Domenic
+    - family-names: Rajendran
+      given-names: Janarthanan
+  collection-title: "Advances in Neural Information Processing Systems"
+  year: 2026

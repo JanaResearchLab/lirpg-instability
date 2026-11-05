@@ -1,0 +1,14 @@
+# MuJoCo training (Python 3.10). setup_env.sh skips numpy and scipy on Compute Canada,
+# where environment modules provide them.
+numpy==1.26.4
+scipy==1.13.1
+torch==2.6.0
+torchopt==0.7.3
+tyro==0.9.13
+gymnasium==1.1.1
+mujoco==3.2.7
+imageio==2.37.0
+tensorboard==2.18.0
+psutil==6.1.1
+tqdm==4.67.1
+pytest==8.3.4

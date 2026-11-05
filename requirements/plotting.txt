@@ -1,0 +1,7 @@
+# Figures and tables (installed on top of requirements/atari.txt).
+rliable @ git+https://github.com/google-research/rliable@3ccd9f4dea577a04d3d2b557f259aac08badbd81
+arch==7.2.0
+seaborn==0.12.2
+matplotlib==3.6.0
+pandas==2.2.3
+plotly==6.0.1

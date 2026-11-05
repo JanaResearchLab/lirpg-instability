@@ -1,0 +1,246 @@
+{
+    "HalfCheetah-v4": {
+        "min": -357.86717544555665,
+        "max": 2509.4019119262693
+    },
+    "Hopper-v4": {
+        "min": 14.422710468769074,
+        "max": 2759.4994869995116
+    },
+    "InvertedDoublePendulum-v4": {
+        "min": 52.705212688446046,
+        "max": 7476.459940795899
+    },
+    "InvertedPendulum-v4": {
+        "min": 8.73,
+        "max": 1000.0
+    },
+    "Reacher-v4": {
+        "min": -61.00428680419922,
+        "max": -9.602840639352799
+    },
+    "Swimmer-v4": {
+        "min": 0.6215671581029892,
+        "max": 99.82687362670899
+    },
+    "Walker2d-v4": {
+        "min": 0.20052156388759612,
+        "max": 3102.927753601074
+    },
+    "BeamRiderNoFrameskip-v4": {
+        "min": 354.68,
+        "max": 5794.44
+    },
+    "BreakoutNoFrameskip-v4": {
+        "min": 1.17,
+        "max": 452.32
+    },
+    "EnduroNoFrameskip-v4": {
+        "min": 0.0,
+        "max": 1202.09
+    },
+    "PongNoFrameskip-v4": {
+        "min": -20.31,
+        "max": 21.0
+    },
+    "QbertNoFrameskip-v4": {
+        "min": 154.25,
+        "max": 19736.0
+    },
+    "SeaquestNoFrameskip-v4": {
+        "min": 73.8,
+        "max": 2585.6
+    },
+    "SpaceInvadersNoFrameskip-v4": {
+        "min": 143.6,
+        "max": 1546.95
+    },
+    "AlienNoFrameskip-v4": {
+        "min": 181.1,
+        "max": 1773.1
+    },
+    "AmidarNoFrameskip-v4": {
+        "min": 2.47,
+        "max": 806.01
+    },
+    "AssaultNoFrameskip-v4": {
+        "min": 258.3,
+        "max": 5361.49
+    },
+    "AsterixNoFrameskip-v4": {
+        "min": 207.0,
+        "max": 5631.5
+    },
+    "AsteroidsNoFrameskip-v4": {
+        "min": 939.2,
+        "max": 1688.9
+    },
+    "AtlantisNoFrameskip-v4": {
+        "min": 17049.0,
+        "max": 900792.0
+    },
+    "BankHeistNoFrameskip-v4": {
+        "min": 13.0,
+        "max": 1178.0
+    },
+    "BattleZoneNoFrameskip-v4": {
+        "min": 2300.0,
+        "max": 36410.0
+    },
+    "BowlingNoFrameskip-v4": {
+        "min": 23.62,
+        "max": 46.21
+    },
+    "BoxingNoFrameskip-v4": {
+        "min": 0.72,
+        "max": 97.89
+    },
+    "CentipedeNoFrameskip-v4": {
+        "min": 2404.16,
+        "max": 11433.49
+    },
+    "ChopperCommandNoFrameskip-v4": {
+        "min": 843.0,
+        "max": 6916.0
+    },
+    "CrazyClimberNoFrameskip-v4": {
+        "min": 7404.0,
+        "max": 126272.0
+    },
+    "DemonAttackNoFrameskip-v4": {
+        "min": 159.15,
+        "max": 20782.65
+    },
+    "DoubleDunkNoFrameskip-v4": {
+        "min": -17.66,
+        "max": -1.52
+    },
+    "FishingDerbyNoFrameskip-v4": {
+        "min": -93.4,
+        "max": 28.28
+    },
+    "FreewayNoFrameskip-v4": {
+        "min": 0.0,
+        "max": 32.78
+    },
+    "FrostbiteNoFrameskip-v4": {
+        "min": 78.0,
+        "max": 2383.1
+    },
+    "GopherNoFrameskip-v4": {
+        "min": 347.2,
+        "max": 5337.4
+    },
+    "GravitarNoFrameskip-v4": {
+        "min": 212.0,
+        "max": 831.5
+    },
+    "IceHockeyNoFrameskip-v4": {
+        "min": -9.35,
+        "max": -2.57
+    },
+    "JamesbondNoFrameskip-v4": {
+        "min": 32.0,
+        "max": 3080.5
+    },
+    "KangarooNoFrameskip-v4": {
+        "min": 44.0,
+        "max": 14099.0
+    },
+    "KrullNoFrameskip-v4": {
+        "min": 1821.4,
+        "max": 9520.5
+    },
+    "KungFuMasterNoFrameskip-v4": {
+        "min": 427.0,
+        "max": 33476.0
+    },
+    "MontezumaRevengeNoFrameskip-v4": {
+        "min": 0.0,
+        "max": 5.0
+    },
+    "MsPacmanNoFrameskip-v4": {
+        "min": 243.4,
+        "max": 2610.9
+    },
+    "NameThisGameNoFrameskip-v4": {
+        "min": 2429.0,
+        "max": 6262.6
+    },
+    "PitfallNoFrameskip-v4": {
+        "min": -293.72,
+        "max": 0.0
+    },
+    "PrivateEyeNoFrameskip-v4": {
+        "min": 41.22,
+        "max": 100.0
+    },
+    "RiverraidNoFrameskip-v4": {
+        "min": 1386.0,
+        "max": 10284.3
+    },
+    "RoadRunnerNoFrameskip-v4": {
+        "min": 6.0,
+        "max": 49147.0
+    },
+    "RobotankNoFrameskip-v4": {
+        "min": 2.4,
+        "max": 27.32
+    },
+    "StarGunnerNoFrameskip-v4": {
+        "min": 607.0,
+        "max": 41373.0
+    },
+    "TennisNoFrameskip-v4": {
+        "min": -23.93,
+        "max": -1.0
+    },
+    "TimePilotNoFrameskip-v4": {
+        "min": 3151.0,
+        "max": 8149.0
+    },
+    "TutankhamNoFrameskip-v4": {
+        "min": 11.16,
+        "max": 240.43
+    },
+    "UpNDownNoFrameskip-v4": {
+        "min": 408.6,
+        "max": 198754.3
+    },
+    "VentureNoFrameskip-v4": {
+        "min": 0.0,
+        "max": 0.0
+    },
+    "VideoPinballNoFrameskip-v4": {
+        "min": 24722.99,
+        "max": 67587.42
+    },
+    "WizardOfWorNoFrameskip-v4": {
+        "min": 635.0,
+        "max": 6844.0
+    },
+    "ZaxxonNoFrameskip-v4": {
+        "min": 20.0,
+        "max": 9591.0
+    },
+    "procgen-caveflyer": {
+        "min": 0.0,
+        "max": 8.63
+    },
+    "procgen-coinrun": {
+        "min": 3.6956521739130435,
+        "max": 10.0
+    },
+    "procgen-dodgeball": {
+        "min": 0.0,
+        "max": 5.14
+    },
+    "procgen-fruitbot": {
+        "min": -1.2608695652173914,
+        "max": 31.35
+    },
+    "procgen-starpilot": {
+        "min": 0.06521739130434782,
+        "max": 35.69
+    }
+}

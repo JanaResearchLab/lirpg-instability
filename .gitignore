@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv*/
+runs-*/
+slurm_logs/
+plots/
+videos/
+wandb/
+.cache/
+figures/

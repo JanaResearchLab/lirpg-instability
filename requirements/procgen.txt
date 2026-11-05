@@ -1,0 +1,15 @@
+# ProcGen training (Python 3.10). procgen 0.10.7 needs the older torch stack below.
+# setup_env.sh skips numpy, scipy and opencv on Compute Canada, where environment modules provide them.
+numpy==1.25.2
+scipy==1.11.2
+opencv-python-headless==4.8.0.76
+torch==2.0.1
+torchopt==0.7.3
+tyro==1.0.13
+gym==0.26.2
+gymnasium==1.1.1
+procgen==0.10.7
+tensorboard==2.20.0
+psutil==5.9.5
+tqdm==4.67.1
+pytest==8.3.4
